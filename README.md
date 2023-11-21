@@ -12,12 +12,14 @@
 <!-- END:LINKS -->
 
 <!-- BEGIN:TITLE -->
-
 <span style="vertical-alignmentd:middle">
-    <img src=[IMG_PWSH_PATH] align="left" style="float:left" height="8%" width="8%">
-    <img src=[IMG_GH_PATH] align="right" style="float:right">
+    <img src=./Docs/Assets/powershellcore.png align="left" style="float:left" height="8%" width="8%">
+    <img src=./Docs/Assets/github.png align="right" style="float:right">
     <h1 align="center">PSGitHubActions</h1>
 </span>
 <br>
-
 <!-- END:TITLE -->
+
+<!-- BEGIN:SUBTITLE -->
+<p align="center"><em>PowerShell Core Module for housing various PowerShell specific GitHub workflows/actions.</em></p>
+<!-- END:SUBTITLE -->
