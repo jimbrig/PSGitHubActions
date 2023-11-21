@@ -4,8 +4,8 @@
 [TESTS_PATH]: ./Tests/
 [DOCS_PATH]: ./Docs/
 [DOCS_SITE]: "https://docs.jimbrig.com/PSGitHubActions"
-[IMG_PWSH_PATH]: ./Docs/Assets/powershellcore.png
-[IMG_GH_PATH]: ./Docs/Assets/github.png
+[IMG_PWSH_PATH]: "./Docs/Assets/powershellcore.png"
+[IMG_GH_PATH]: "./Docs/Assets/github.png"
 [CHANGELOG_PATH]: ./CHANGELOG.md
 [PSGALLERY_PROFILE]: https://www.powershellgallery.com/jimbrig
 [PSGALLERY_MODULE]: https://www.powershellgallery.com/packages/PSGitHubActions
